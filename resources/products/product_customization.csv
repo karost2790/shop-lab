@@ -1,0 +1,6 @@
+customization_id,product_id,customization_type,customization_options
+1,1,Size,"Small, Medium, Large"
+2,2,Milk,"Whole, Almond, Oat"
+3,3,Ice,"Regular, Extra"
+4,5,Warm,"Yes, No"
+5,2,Size,"Small, Medium, Large"

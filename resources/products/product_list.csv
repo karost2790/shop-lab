@@ -1,0 +1,6 @@
+product_id,product_name,description,price,availability_status,category_id
+1,Espresso,Rich and bold espresso shot,3.5,Available,1
+2,Latte,Creamy latte with steamed milk,4.0,Available,1
+3,Iced Americano,Refreshing iced coffee with a strong flavor,3.75,Out of Stock,2
+4,Blueberry Muffin,Moist muffin with real blueberries,2.5,Available,3
+5,Chocolate Croissant,Flaky croissant filled with chocolate,3.0,Available,3

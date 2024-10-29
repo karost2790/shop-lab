@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Price,Available,Customization
+1,Espresso,Coffee,3.5,Yes,"Size (Small, Medium, Large); Milk (None, Almond, Soy)"
+2,Latte,Coffee,4.0,Yes,"Size (Small, Medium, Large); Milk (Whole, Almond, Oat)"
+3,Iced Americano,Cold Coffee,3.75,No,"Size (Medium, Large); Ice (Regular, Extra)"
+4,Blueberry Muffin,Bakery,2.5,Yes,None
+5,Chocolate Croissant,Bakery,3.0,Yes,"Warm (Yes, No)"
+6,Green Tea Latte,Tea,4.25,Yes,"Size (Small, Medium, Large); Milk (Whole, Almond, Oat)"
+7,Chai Latte,Tea,4.0,No,"Size (Small, Medium); Spice Level (Mild, Spicy)"
+8,Fruit Smoothie,Smoothie,5.0,Yes,"Flavor (Berry, Mango, Tropical); Add-ons (Protein, Chia Seeds)"
+9,Matcha Latte,Tea,4.5,Yes,"Size (Small, Medium, Large); Sweetness (Low, Medium, High)"
+10,Bagel with Cream Cheese,Bakery,2.75,Yes,"Type (Plain, Everything); Toasted (Yes, No)"
